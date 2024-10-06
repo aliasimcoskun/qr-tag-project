@@ -72,3 +72,26 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Android 
+/build/
+.gradle/
+/local.properties
+*.iml
+.idea/
+*.apk
+
+# Arduino
+/build/
+*.hex
+*.elf
+.vscode/
+
+# Qt
+/build-*/
+*.user
+*.pro.user
+*.o
+*.obj
+Makefile
+qmake.stash
