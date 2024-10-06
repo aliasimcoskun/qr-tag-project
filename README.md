@@ -18,6 +18,7 @@
   - [Desktop Application (Qt)](#desktop-application)
 - [Challenges Faced](#challenges-faced)
 - [Conclusion](#conclusion)
+- [Additional Files](#additional-files)
 
 ---
 
@@ -114,3 +115,8 @@ scanner.ino
 
 ## Conclusion
 The QR Tag project successfully combines mobile technology, server communication, and real-time game mechanics to offer an engaging multiplayer experience. Despite several technical challenges, each module was developed and tested thoroughly to create a cohesive gaming system.
+
+## Additional Files
+For more information, including the final project report and user manual, you can access the following Google Drive link:
+
+[Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)
