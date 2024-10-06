@@ -81,11 +81,22 @@ DerivedDataCache/*
 .idea/
 *.apk
 
-# Arduino
+# Android
 /build/
-*.hex
-*.elf
-.vscode/
+/local.properties
+/.idea/
+/*.iml
+.gradle/
+/out/
+# Gradle
+gradle-app/build/
+gradle-wrapper.jar
+.gradle/
+/.gradle/
+build/
+/build/
+!gradle-wrapper.jar
+*.iml
 
 # Qt
 /build-*/
