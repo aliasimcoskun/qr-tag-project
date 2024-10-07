@@ -26,11 +26,11 @@
 The **QR Tag Project** is an interactive gaming experience combining mobile QR code scanning, location tracking, and real-time game mechanics. Players engage in a competitive game where they tag each other by scanning QR codes. The project consists of multiple modules, including location tracking with ESP32 devices, a mobile application for interaction, a game server for real-time updates, and a 3D game area modeled in Unreal Engine 5.
 
 ## Project Structure
-qr-tag-project/
-├── AndroidApp/
-├── Arduino/
-├── UnrealEngine/
-├── QtApp/
+qr-tag-project/\
+├── AndroidApp/\
+├── Arduino/\
+├── UnrealEngine/\
+├── QtApp/\
 └── README.md
 
 Each folder contains source codes and necessary files for specific modules.
@@ -39,13 +39,13 @@ Each folder contains source codes and necessary files for specific modules.
 Follow the instructions below to install and run the components of the QR Tag Project:
 
 ### Server and Desktop App (Qt)
-1. Install Qt and required tools:
+1. Install Qt and required tools:\
 sudo apt update sudo apt install qt5-default qtcreator build-essential
 
-2. Generate the Makefile:
+2. Generate the Makefile:\
 qmake server_desktop_app.pro make
 
-3. Run the server application:
+3. Run the server application:\
 ./server_desktop_app
 
 
@@ -60,14 +60,14 @@ qmake server_desktop_app.pro make
 4. Run on a connected Android device.
 
 ### ESP32 Codes (Arduino)
-1. Install the Arduino CLI:
+1. Install the Arduino CLI:\
 curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh sudo mv bin/arduino-cli /usr/local/bin/
 
-2. Set up ESP32 board:
+2. Set up ESP32 board:\
 arduino-cli config init arduino-cli config set board_manager.additional_urls https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json arduino-cli core install esp32
 
-3. Compile ESP32 code:
-arduino-cli compile --fqbn esp32:esp32
+3. Compile ESP32 code:\
+arduino-cli compile --fqbn esp32:esp32\
 scanner.ino
 
 
