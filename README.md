@@ -25,6 +25,18 @@
 ## Introduction
 The **QR Tag Project** is an interactive gaming experience combining mobile QR code scanning, location tracking, and real-time game mechanics. Players engage in a competitive game where they tag each other by scanning QR codes. The project consists of multiple modules, including location tracking with ESP32 devices, a mobile application for interaction, a game server for real-time updates, and a 3D game area modeled in Unreal Engine 5.
 
+---
+
+## **Watch the Gameplay and Implementation Video**
+[![Watch the Video](https://img.youtube.com/vi/42vSmNZDn74/0.jpg)](https://youtu.be/42vSmNZDn74?si=aFr2VjpI9jUzaMdx)
+
+---
+
+## **Visit Our Website**
+[![Visit the Website](https://via.placeholder.com/800x400.png?text=Visit+Our+Website)](https://ardaardac.wixsite.com/my-site-3)
+
+---
+
 ## Project Structure
 qr-tag-project/
 ├── AndroidApp/
@@ -117,6 +129,7 @@ scanner.ino
 The QR Tag project successfully combines mobile technology, server communication, and real-time game mechanics to offer an engaging multiplayer experience. Despite several technical challenges, each module was developed and tested thoroughly to create a cohesive gaming system.
 
 ## Additional Files
-For more information, including the final project report and user manual, you can access the following Google Drive link:
-
-[Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)
+For more information, including a demonstration video, our website, the final project report and user manual, you can access the following links:
+- [Gameplay and Implementation Video](https://youtu.be/42vSmNZDn74?si=aFr2VjpI9jUzaMdx)  
+- [Project Website](https://ardaardac.wixsite.com/my-site-3)  
+- [Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)  
