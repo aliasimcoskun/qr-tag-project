@@ -133,3 +133,15 @@ For more information, including a demonstration video, our website, the final pr
 - [Gameplay and Implementation Video](https://youtu.be/42vSmNZDn74?si=aFr2VjpI9jUzaMdx)  
 - [Project Website](https://ardaardac.wixsite.com/my-site-3)  
 - [Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)  
+
+## 🤝 Collaborators
+@aliasimcoskun(github.com/aliasimcoskun): 
+- Owner of the project idea.
+- Mobile Application by using Kotlin (.xml files for frontend).
+- Contribution to Game Logic (C++).
+- Editing project video.
+- Creating all required reports of the project.
+- Creating simple website for demo.
+
+@bashtag(github.com/bashtag):
+-
