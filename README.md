@@ -135,4 +135,13 @@ For more information, including a demonstration video, our website, the final pr
 - [Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)  
 
 ## 🤝 Collaborators
-This project was developed by @aliasimcoskun and @bashtag.
+@aliasimcoskun(github.com/aliasimcoskun): 
+- Owner of the project idea.
+- Mobile Application by using Kotlin (.xml files for frontend).
+- Contribution to Game Logic (C++).
+- Editing project video.
+- Creating all required reports of the project.
+- Creating simple website for demo.
+
+@bashtag(github.com/bashtag):
+-
