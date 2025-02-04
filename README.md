@@ -11,15 +11,15 @@
 - [Project Structure](#project-structure)
 - [Installation Guide](#installation-guide)
 - [Module Descriptions](#module-descriptions)
-  - [Location Tracking Module (Arduino/ESP32)](#location-tracking-module)
-  - [Game Server and 3D Modelling Module (Unreal Engine)](#game-server-and-3d-modelling-module)
+  - [Location Tracking Module](#location-tracking-module)
+  - [Game Server and 3D Modelling Module](#game-server-and-3d-modelling-module)
   - [Game Logic Module](#game-logic-module)
-  - [Mobile Application Module (Android)](#mobile-application-module)
-  - [Desktop Application (Qt)](#desktop-application)
+  - [Mobile Application Module](#mobile-application-module)
+  - [Desktop Application](#desktop-application)
 - [Challenges Faced](#challenges-faced)
 - [Conclusion](#conclusion)
 - [Additional Files](#additional-files)
-
+- [Collaborators](#collaborators)
 ---
 
 ## Introduction
@@ -33,7 +33,7 @@ The **QR Tag Project** is an interactive gaming experience combining mobile QR c
 ---
 
 ## **Visit Our Website**
-[![Visit the Website](https://via.placeholder.com/800x400.png?text=Visit+Our+Website)](https://ardaardac.wixsite.com/my-site-3)
+[Visit the Website](https://ardaardac.wixsite.com/my-site-3)
 
 ---
 
