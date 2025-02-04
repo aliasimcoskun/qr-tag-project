@@ -87,30 +87,30 @@ scanner.ino
 
 ## Module Descriptions
 
-### 📍 Location Tracking Module
+### 📍Location Tracking Module
 **Purpose**: Track player positions using ESP32 devices in the game area.  
 **Technologies**: ESP32, C/C++.  
 **Development Environment**: Arduino IDE.  
 **Challenges**: Signal strength issues and frequent disconnections due to large game area.  
 
-### 🎮 Game Server and 3D Modelling Module
+### 🎮Game Server and 3D Modelling Module
 **Purpose**: Manage game settings, track player positions, and visualize the game area.  
 **Technologies**: Unreal Engine 5, C++, TCP/UDP Protocols.  
 **Development Environment**: Visual Studio, Unreal Engine 5.  
 **Challenges**: Issues with real-time data integration and 3D model collisions.
 
-### 🧩 Game Logic Module
+### 🧩Game Logic Module
 **Purpose**: Implement game rules and mechanics (health points, tagging, score management).  
 **Technologies**: C/C++, Arduino.  
 **Challenges**: Delays in physical indicators (LEDs), ensuring accurate game rule enforcement.
 
-### 📱 Mobile Application Module
+### 📱Mobile Application Module
 **Purpose**: Provide an interface for players to interact with the game, display real-time stats, and scan QR codes.  
 **Technologies**: Android NDK, ZXing Library.  
 **Development Environment**: Android Studio.  
 **Challenges**: QR scanning issues with certain devices and preventing exploitative gameplay mechanics.
 
-### 💻 Desktop Application
+### 💻Desktop Application
 **Purpose**: Manage the server-side logic, display 3D visualization of the game area, and handle game-related events.  
 **Technologies**: Qt, C++.  
 **Challenges**: Configuring the 3D model and managing server IP configurations.
@@ -134,7 +134,7 @@ For more information, including a demonstration video, our website, the final pr
 - [Project Website](https://ardaardac.wixsite.com/my-site-3)  
 - [Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)  
 
-## 🤝 Collaborators
+## 🤝Collaborators
 [@aliasimcoskun](https://github.com/aliasimcoskun): 
 - Owner of the project idea.
 - Mobile Application by using Kotlin (.xml files for frontend).
