@@ -144,4 +144,6 @@ For more information, including a demonstration video, our website, the final pr
 - Creating simple website for demo.
 
 [@bashtag](https://github.com/bashtag):
-- xxx
+- Led the 3D reconstruction component development using Unreal Engine C++.  
+- Implemented Native C++ components for Android and contributed to UI using Kotlin.  
+- Debugged the Qt server app. 
